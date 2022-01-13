@@ -397,7 +397,8 @@
 }
 @media (max-width: 576px) {
   .home__portrait {
-    background-size: 360px;
+    /* background-size: 360px; */
+    background-size: 300px;
   }
 }
 .home__heading {
