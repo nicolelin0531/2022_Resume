@@ -386,7 +386,7 @@
   background-repeat: no-repeat;
   background-position: bottom right;
   left: 50%;
-  transform: translateX(-55%);
+  transform: translateX(-50%);
   max-width: 1140px;
   z-index: -2;
 }
