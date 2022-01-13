@@ -397,9 +397,8 @@
 }
 @media (max-width: 576px) {
   .home__portrait {
-    /* background-size: 360px; */
-    background-size: 330px;
-    transform: translateX(-30%);
+    background-image: url("../images/portrait1.png");
+    background-size: 230px;
   }
 }
 .home__heading {
